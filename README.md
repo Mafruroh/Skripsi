@@ -1,4 +1,6 @@
 # Skripsi
 Ide Skripsi Pemrograman Mobile
 
-Aplikasi Toko Buah Buahan menggunakan Fragment dan Places
+Aplikasi Pemilihan restoran terdekat.
+disini saya menggunakan fragment untuk tampilan awal yang berisi restoran-restoran yang berada di kota malang.
+dan juga terdapat search location yang menampilkan jarak terdekat restoran dengan keberadaan kita.
