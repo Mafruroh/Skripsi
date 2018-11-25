@@ -1,6 +1,6 @@
 # Skripsi
 Ide Skripsi Pemrograman Mobile
 
-Aplikasi Pemilihan restoran terdekat.
-disini saya menggunakan fragment untuk tampilan awal yang berisi restoran-restoran yang berada di kota malang.
-dan juga terdapat search location yang menampilkan jarak terdekat restoran dengan keberadaan kita.
+Sistem Pemantauan Lokasi Anak Menggunakan Metode Geofencing Pada Platform Android
+
+Kesibukan orang tua akhir-akhir ini telah menyita waktu mereka untuk berkumpul bersama keluarga. Tuntutan pekerjaan yang menyebabkan mereka harus berada di tempat kerja setiap hari menyebabkan perhatian dan pengawasan mereka terhadap keluarga terutama anak-anak menjadi berkurang. Belum lagi apabila para orang tua memiliki putra-putri yang sedang menempuh pendidikan di luar kota menyebabkan pengawasan terhadap anak-anaknya menjadi berkurang. Tidak jarang banyak ditemui kasus bahwa putra-putri mereka sering berbohong kepada orang tuanya ke mana mereka pergi. Hal ini tentu akan menimbulkan kekhawatiran terhadap para orang tua apalagi di masa seperti sekarang ini tempat-tempat hiburan bagi anak muda terdapat dimana-mana. Sebagai salah satu solusi penulis membuat suatu sistem pemantauan lokasi anak untuk mengetahui dimana putra-putri mereka berada dan kemana saja putra-putri mereka bepergian. Sistem pemantauan lokasi anak merupakan sebuah sistem LBS (Location Based Services) dengan memanfaatkan GPS yang terdapat pada smartphone. Koordinat yang ditangkap oleh GPS dikirimkan ke server, kemudian server akan menampilkan lokasi keberadaan anak pada peta yang bisa diakses melalui website atau perangkat smartphone milik orang tua. Geofencing yang merupakan sebuah perimeter virtual pada wilayah geografis yang menggunakan layanan berbasis lokasi digunakan untuk pembatasan wilayah pengawasan anak. Apabila anak pergi melewati batas geofencing yang ditetapkan akan muncul notifikasin kepada orang tua berupa pesan atau alarm melalui perangkat smartphonenya.
